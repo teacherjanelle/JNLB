@@ -26,19 +26,28 @@ Courses Taught: ENG 110 Basic Writing; ENGL 004 Basic Writing; LENG 110: Composi
 
 Teaching all levels of English as an Additional Language to adult students. Focusing on instruction using integrated skills (reading, writing, listening, speaking) and themes to help students develop their language skills. Focusing on integrating technology and existing literacies into language learning while helping students explore personal interests and understand academic expectations.
 
-Courses Taught: 
+Courses Taught:  
 
 *ESL Teacher Training*
 
 Teaching pre-service teachers content for the Pennsylvania Department of Education's ESL Specialist Certificate.  Focusing on the structure of the English language, language acquisition, language learning contexts, methods of assessment, and cross cultural communication.
 
-Courses Taught: 
+Courses Taught: GEDU 518 Structures of English; GEDU 519 Assessment; GEDU 522 Multicultural Aspects of CrossCultural Communication
 
-# **Presentations**
+# **Presentations**  
 
 # **Professional Affiliations**
+American Association for Applied Linguistics (AAAL), member since 2013
+
+National Council of Teachers of English (NCTE), member since 2012
+
+Three Rivers TESOL, member since 2012
 
 # **Professional Development**
+*Digital Humanities Summer Institute (DSHI) 2015; Victoria, B.C.; June 8-12, 2015*
+
+**Digital Humanities with a Global Outlook with Alex Gil.** 
+
 
 
 
