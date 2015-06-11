@@ -44,9 +44,9 @@ National Council of Teachers of English (NCTE), member since 2012
 Three Rivers TESOL, member since 2012
 
 # **Professional Development**
-*Digital Humanities Summer Institute (DSHI) 2015; Victoria, B.C.; June 8-12, 2015*
+*Digital Humanities Summer Institute (DHSI) 2015; Victoria, B.C.; June 8-12, 2015*
 
-**Digital Humanities with a Global Outlook with Alex Gil.** 
+**Digital Humanities with a Global Outlook** *with Alex Gil.*  
 
 
 
