@@ -3,8 +3,8 @@ title: ramblings
 tagline: scholarly and otherwise
 email: teacherjanelle@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-Hands on keyboard. Write. Sometimes badly.
-baseurl: "/JNLB" # the subpath of your site, e.g. /blog/
+    Hands on keyboard. Write. Sometimes badly.
+baseurl: "/JNLB/" # the subpath of your site, e.g. /blog/
 url: "/rambling" # the base hostname & protocol for your site
 twitter_username: teacherjanelle
 github_username:  teacherjanelle
