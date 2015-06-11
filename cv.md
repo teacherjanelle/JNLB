@@ -34,9 +34,15 @@ Teaching pre-service teachers content for the Pennsylvania Department of Educati
 
 Courses Taught: GEDU 518 Structures of English; GEDU 519 Assessment; GEDU 522 Multicultural Aspects of CrossCultural Communication
 
-# **Presentations**  
+# **Digital Writing**
 
-# **Professional Affiliations**
+# **Paper Publications**
+
+# **Participation**  
+
+# **Service**
+
+# **Affiliations**
 American Association for Applied Linguistics (AAAL), member since 2013
 
 National Council of Teachers of English (NCTE), member since 2012
@@ -47,6 +53,8 @@ Three Rivers TESOL, member since 2012
 *Digital Humanities Summer Institute (DHSI) 2015; Victoria, B.C.; June 8-12, 2015*
 
 **Digital Humanities with a Global Outlook** *with Alex Gil.*  
+
+# **References**
 
 
 
